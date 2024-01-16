@@ -1,0 +1,17 @@
+{
+    "name": "pc/dethi",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "duongtrongbinh",
+            "email": "137783978+duongtrongbinh@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2"
+    }
+}
